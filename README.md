@@ -1,3 +1,7 @@
+© 2026 刘子祥 · 原创作品，转载请注明出处
+
+> **定位**：基于 Ollama 原生 function calling 的 Agent：自研工具注册表、结构化校验与多轮调用循环。 使用许可见 [LICENSE](./LICENSE)。
+
 # 02 - Function-Calling Agent
 
 基于 Ollama 原生函数调用（`/api/chat` + `tools`）构建的 Agent，自研工具注册表、结构化输出校验与多轮工具调用循环，不依赖 LangChain 等 Agent 框架。
